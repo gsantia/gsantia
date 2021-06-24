@@ -1,5 +1,5 @@
 ### Howdy! 👋
-I'm a backend engineer with an academic background in Math and Data Science. My math work focused on algebraic topology, while my Data Science work
+I'm a software engineer with an academic background in Math and Data Science. My math work focused on algebraic topology, while my Data Science work
 concerns bot detection/misinformation in massive interlinked systems (mostly social media). 
 
 - 🌱 I’m currently learning Kubernetes and Kafka
