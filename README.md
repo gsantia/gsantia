@@ -1,10 +1,11 @@
 ### Howdy! 👋
-I'm a backend engineer with a heavy academic background in Math and Data Science. My math work focused on algebraic topology, while my Data Science work
+I'm a backend engineer with an academic background in Math and Data Science. My math work focused on algebraic topology, while my Data Science work
 concerns bot detection/misinformation in massive interlinked systems (mostly social media). 
 
 - 🌱 I’m currently learning Kubernetes and Kafka
-- 🔭 [My publications](https://scholar.google.com/citations?user=alrj1ZwAAAAJ&hl=en)
+- 🔭 [My publications](https://scholar.google.com/citations?user=alrj1ZwAAAAJ&hl=en), and my [Master's Thesis](https://github.com/gsantia/Alexander-Polynomial/blob/master/Alexander%20Polynomial%20Essay.pdf)
 - 👯 I’m looking to learn more about distributed systems
+- 💬 Ask me about Knot Theory or Facebook bots
 - ⚡ Fun fact: There are at least six times more birds on the planet than people
 
 ![Visitor Count](https://profile-counter.glitch.me/gsantia/count.svg)
