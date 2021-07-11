@@ -1,6 +1,5 @@
 ### Howdy! 👋
 I'm a software engineer focusing on data. My academic background is in algebraic topology and more recently bots/misinformation on social media.
-It's important to remember technology can be used for good!
 
 - 🌱 I’m currently learning Kubernetes and Kafka
 - 🔭 [My publications](https://scholar.google.com/citations?user=alrj1ZwAAAAJ&hl=en), and my [Master's Thesis](https://github.com/gsantia/Alexander-Polynomial/blob/master/Alexander%20Polynomial%20Essay.pdf)
