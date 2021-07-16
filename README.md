@@ -4,7 +4,7 @@ I'm a software engineer focusing on data. My academic background is in algebraic
 - 🌱 I’m currently learning Kubernetes Operator and Kafka
 - 🔭 [My publications](https://scholar.google.com/citations?user=alrj1ZwAAAAJ&hl=en), and my [Master's Thesis](https://github.com/gsantia/Alexander-Polynomial/blob/master/Alexander%20Polynomial%20Essay.pdf)
 - 👯 I’m looking to learn more about distributed data and messaging systems
-- 💬 Ask me about Knot Theory or Facebook bots
+- 💬 Ask me about Knot Theory or bots
 
 ![Visitor Count](https://profile-counter.glitch.me/gsantia/count.svg)
 <!--
