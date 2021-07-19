@@ -1,0 +1,22 @@
+{
+  "name": "gsantia",
+  "version": "1.0.0",
+  "description": "I'm a software engineer focusing on data. My academic background is in algebraic topology and bots/misinformation on social media.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsantia/gsantia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsantia/gsantia/issues"
+  },
+  "homepage": "https://github.com/gsantia/gsantia#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
