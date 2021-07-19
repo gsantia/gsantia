@@ -1,5 +1,5 @@
 ### Howdy! 👋
-My name is Giovanni and I'm a software engineer focusing on data.
+I'm a software engineer focusing on data.
 My academic background is in algebraic topology and bots/misinformation on
 social media.
 
@@ -9,7 +9,8 @@ social media.
 - 💬 Ask me about knot theory or bots
 
 
-Today is Sunday, July 18, 8:53 PM EDT and you are visitor number:
+This file was generated Sunday, July 18, 11:34 PM EDT. You are visitor number:
+
 ![Visitor Count](https://profile-counter.glitch.me/gsantia/count.svg)
 
 <!--

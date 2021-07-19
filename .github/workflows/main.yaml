@@ -3,17 +3,17 @@ name: README build
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 */6 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout current repository to Master branch
-        uses: actions/checkout@v1
+      - name: Checkout current repository to Main branch
+        uses: actions/checkout@v2
       - name: Setup NodeJs 13.x
         uses: actions/setup-node@v1
         with:
@@ -31,3 +31,4 @@ jobs:
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_NAME: ''
